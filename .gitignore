@@ -1,0 +1,28 @@
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+.env
+
+## PHPStorm
+*.iml
+.idea/
+
+## File-based project format:
+*.ipr
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+### Composer ###
+composer.phar
+
+coverage.xml
